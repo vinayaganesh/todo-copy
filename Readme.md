@@ -1,0 +1,1 @@
+Project with information about Git
